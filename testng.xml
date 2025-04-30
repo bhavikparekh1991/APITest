@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "C:\Users\bhavi\eclipse-workspace1\ApiTest\testng-1.0.dtd" >
+<suite name="APISuite">
+    <test name="RunAPITests">
+        <classes>
+            <class name="tests.UserApiTest"/>
+        </classes>
+    </test>
+</suite>
